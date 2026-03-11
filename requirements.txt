@@ -1,5 +1,5 @@
 mkdocs-material>=9.5.0
-mkdocs-tags-plugin>=0.1.0
+mkdocs-tags>=0.1.0
 requests>=2.31.0
 python-dateutil>=2.8.2
 pyyaml>=6.0.1
