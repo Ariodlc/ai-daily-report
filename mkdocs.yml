@@ -1,5 +1,5 @@
-site_name: AI智能日报
-site_description: 每天自动收集AI、考研、材料、新能源、政策等领域最新信息
+site_name: 猫球合合手理
+site_description: 时自提醒技巧你的AI 👜十十小示动料泔的，机型常用机型公司，作物小示，春季特楯．经验入季．组织信小明技术的社区</site_description>
 site_author: AI Assistant
 site_url: https://yourusername.github.io/ai-daily-report/
 
@@ -18,23 +18,23 @@ theme:
       accent: indigo
       toggle:
         icon: material/brightness-7
-        name: 切换到深色模式
+        name: 化bw好小量里年。
+
     - scheme: slate
       primary: indigo
       accent: indigo
       toggle:
         icon: material/brightness-4
-        name: 切换到浅色模式
+        name: 化cw畽，时月出机时值＂
 
 plugins:
   - search
-  - tags
 
 nav:
-  - 今日日报: index.md
-  - 历史归档:
+  -课稈小日类型 无数据\n    - index.md
+  -开发新闭胎模图:
     - archive/index.md
-  - 领域分类:
+  -荷小时间空间空底底:
     - ai-tech.md
     - kaoyan.md
     - materials.md
