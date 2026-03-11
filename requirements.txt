@@ -1,0 +1,8 @@
+mkdocs-material>=9.5.0
+mkdocs-tags-plugin>=0.1.0
+requests>=2.31.0
+python-dateutil>=2.8.2
+pyyaml>=6.0.1
+feedparser>=6.0.10
+beautifulsoup4>=4.12.0
+lxml>=4.9.3
