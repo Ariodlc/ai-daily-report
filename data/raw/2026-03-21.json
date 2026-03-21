@@ -1,0 +1,121 @@
+{
+  "date": "2026-03-21",
+  "created_at": "2026-03-21T04:55:15.766817",
+  "fields": {
+    "ai_tech": {
+      "name": "AI技术科技",
+      "queries": [
+        "AI人工智能最新动态 今天",
+        "大模型技术突破 2026",
+        "ChatGPT Claude Gemini 新功能"
+      ],
+      "results": [
+        {
+          "query": "AI人工智能最新动态 今天",
+          "error": "[Errno 2] No such file or directory: 'kimi-search'"
+        },
+        {
+          "query": "大模型技术突破 2026",
+          "error": "[Errno 2] No such file or directory: 'kimi-search'"
+        },
+        {
+          "query": "ChatGPT Claude Gemini 新功能",
+          "error": "[Errno 2] No such file or directory: 'kimi-search'"
+        }
+      ],
+      "collected_at": "2026-03-21T04:55:15.767936"
+    },
+    "kaoyan": {
+      "name": "考研信息",
+      "queries": [
+        "080500材料科学与工程 考研复试线 2026",
+        "2026考研调剂信息 材料专业",
+        "材料考研最新政策"
+      ],
+      "results": [
+        {
+          "query": "080500材料科学与工程 考研复试线 2026",
+          "error": "[Errno 2] No such file or directory: 'kimi-search'"
+        },
+        {
+          "query": "2026考研调剂信息 材料专业",
+          "error": "[Errno 2] No such file or directory: 'kimi-search'"
+        },
+        {
+          "query": "材料考研最新政策",
+          "error": "[Errno 2] No such file or directory: 'kimi-search'"
+        }
+      ],
+      "collected_at": "2026-03-21T04:55:15.768850"
+    },
+    "materials": {
+      "name": "材料领域",
+      "queries": [
+        "新材料研究突破 最新",
+        "纳米材料 电池材料 进展",
+        "材料科学前沿动态"
+      ],
+      "results": [
+        {
+          "query": "新材料研究突破 最新",
+          "error": "[Errno 2] No such file or directory: 'kimi-search'"
+        },
+        {
+          "query": "纳米材料 电池材料 进展",
+          "error": "[Errno 2] No such file or directory: 'kimi-search'"
+        },
+        {
+          "query": "材料科学前沿动态",
+          "error": "[Errno 2] No such file or directory: 'kimi-search'"
+        }
+      ],
+      "collected_at": "2026-03-21T04:55:15.769745"
+    },
+    "new_energy": {
+      "name": "新能源",
+      "queries": [
+        "固态电池 锂电池 最新进展",
+        "光伏储能 新能源政策",
+        "电动车 动力电池 技术突破"
+      ],
+      "results": [
+        {
+          "query": "固态电池 锂电池 最新进展",
+          "error": "[Errno 2] No such file or directory: 'kimi-search'"
+        },
+        {
+          "query": "光伏储能 新能源政策",
+          "error": "[Errno 2] No such file or directory: 'kimi-search'"
+        },
+        {
+          "query": "电动车 动力电池 技术突破",
+          "error": "[Errno 2] No such file or directory: 'kimi-search'"
+        }
+      ],
+      "collected_at": "2026-03-21T04:55:15.770588"
+    },
+    "policy": {
+      "name": "十五五政策",
+      "queries": [
+        "十五五规划 最新政策",
+        "国家产业政策 新材料 新能源",
+        "2026年政策解读"
+      ],
+      "results": [
+        {
+          "query": "十五五规划 最新政策",
+          "error": "[Errno 2] No such file or directory: 'kimi-search'"
+        },
+        {
+          "query": "国家产业政策 新材料 新能源",
+          "error": "[Errno 2] No such file or directory: 'kimi-search'"
+        },
+        {
+          "query": "2026年政策解读",
+          "error": "[Errno 2] No such file or directory: 'kimi-search'"
+        }
+      ],
+      "collected_at": "2026-03-21T04:55:15.771409"
+    }
+  }
+}
